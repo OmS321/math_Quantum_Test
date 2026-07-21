@@ -1,8 +1,8 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
+  - title: "Hands-On Things"
+    url: /handsonthings/
+  - title: "Review"
+    url: /review/
   - title: "Tags"
     url: /tags/
   - title: "About"
