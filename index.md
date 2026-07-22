@@ -21,14 +21,15 @@ author_profile: false
 **My Goal: Creating User-Interactive Simulations of Famous Quantum Algorithms via Qiskit (e.g., Shor's, Grover's, etc.)**
 
 **Background**
+
 One aspect of quantum computing and mathematics that is discussed frequently is the *quantum algorithms*. They are specialized methods, often blending quantum and classical logic, to solve complex problems in cryptography, data science, and other potentially other fields. For example, Shor's algorithm is designed to find prime factors of very large numbers, which causes concern in digital security as current encryption methods like RSA are rooted on the difficulty of prime factorization. Grover's Algorithm is a quantum computing method for searching an unsorted database in relatively fewer operations compared to a classical computer. Algorithms like Shor's and Grover's offer an immediate glance at the use of quantum computing in the real world. However, misconceptions are bound to arise, as there is not quite a perfect way to describe the nature of quantum computing.
 
-*Motivation:* To help the general public understand quantum algorithms and their real-world practicality.
-*Video:*
-*References:*
+- *Motivation:* To help the general public understand quantum algorithms and their real-world practicality.
+- *Video:*
+- *References:*
 
 **Tools**
-- Mathematics:
+- Mathematics: Linear algebra, complex numbers, alongside basic probability theory
 - Python, Qiskit
 
 **Personal Goals**
