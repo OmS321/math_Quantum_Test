@@ -33,7 +33,7 @@ One aspect of quantum computing and mathematics that is discussed frequently is 
 - Python, Qiskit
 
 **Personal Goals**
-- Interested in A
-- Interested in B
-- Interested in C
+- Interested in reaching out to a wider audience about what I learn
+- Interested in doing research in quantum mathematics and computing
+- Interested in finding good applications of quantum algorithms.
 
